@@ -1,2 +1,2 @@
-n = int(input('Digite um valor: '))
-print('Dobro: {}, Triplo: {}, raiz quadrada {}🤯'.format((n * 2), (n * 3), (n ** (1/2))))
+v = float(input("Digite uma medida: M"))
+print("mm: {}\ndc: {}\ncm: {}\nm:  {}\ndm: {}\nhm: {}\nkm: {}".format((v * 1000), (v * 100), (v * 10), v, (v *10), (v * 100), (v * 1000)))

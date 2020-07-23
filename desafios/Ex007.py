@@ -1,3 +1,3 @@
-n = int(input('Insira um número: '))
-print('O antecessor é {}, e o sucessor {}'.format((n - 1), (n + 1)))
-print('Antecessor em emoji> {}, sucessor em emoji> {}'.format(((n - 1) * '✔'), ((n + 1) * '✔')))
+n1 = int(input('nota 1 > '))
+n2 = int(input('nota 2 > '))
+print("A media do aluno foi de {} 🤡".format((n1 + n2)/2))
