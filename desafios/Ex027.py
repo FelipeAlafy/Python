@@ -1,4 +1,4 @@
-nome = str(input("Digite o seu nome completo: "))
+nome = str(input("Digite o seu nome completo: ")).strip()
 nome = nome.split()
 pnome = nome[0]
 unome = nome[len(nome)-1]
