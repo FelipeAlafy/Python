@@ -77,8 +77,11 @@
       <w>parte</w>
       <w>pnome</w>
       <w>pode</w>
+      <w>posição</w>
+      <w>possição</w>
       <w>precisar</w>
       <w>preço</w>
+      <w>primeira</w>
       <w>primeiro</w>
       <w>produto</w>
       <w>programa</w>
@@ -107,10 +110,13 @@
       <w>triângulo</w>
       <w>unico</w>
       <w>unidade</w>
+      <w>unome</w>
       <w>vezes</w>
       <w>você</w>
       <w>vídeo</w>
       <w>ângulo</w>
+      <w>última</w>
+      <w>último</w>
     </words>
   </dictionary>
 </component>
