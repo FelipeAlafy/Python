@@ -1,4 +1,4 @@
-frase = str(input("Digite uma frase qualquer: "))
+frase = str(input("Digite uma frase qualquer: ")).strip()
 A = frase.count('A')
 Ap = frase.find('A')
 Aup = frase.rfind('A')
