@@ -1,2 +1,2 @@
 din = float(input('Quanto de dinheiro você tem? R$'))
-print("você pode comprar US${:.2f}".format(din / 5))
+print("\033[35mvocê pode comprar US${:.2f}".format(din / 5))

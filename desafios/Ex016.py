@@ -2,4 +2,4 @@
 from math import floor
 value = float(input("Qual o valor? "))
 value = floor(value)
-print("A parte inteira desse valor é {}.".format(value))
+print("\033[32mA parte inteira desse valor é {}.".format(value))

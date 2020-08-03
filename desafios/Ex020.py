@@ -6,4 +6,4 @@ aluno3 = input("Qual o terceiro aluno? ")
 aluno4 = input("Qual o quarto aluno? ")
 lista = [aluno1, aluno2, aluno3, aluno4]
 shuffle(lista)
-print("A ordem deve ser {}.".format(lista))
+print("\033[33mA ordem deve ser {}.".format(lista))
