@@ -1,5 +1,5 @@
 sal = float(input("Qual é o seu salário atual? "))
-if sal >= 1250:
+if sal > 1250:
     aume = 10
 else:
     aume = 15
