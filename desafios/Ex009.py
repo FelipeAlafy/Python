@@ -1,4 +1,4 @@
-n = int(input("Digite um número: "))
+n = int(input("\033[31mDigite um número: "))
 
 print("{} x 1 = {}".format(n, (n * 1)))
 print("{} x 2 = {}".format(n, (n * 2)))

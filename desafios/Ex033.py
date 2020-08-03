@@ -19,5 +19,5 @@ else:
     else:
         menor = v3
 
-print("O maior número é {}".format(maior))
-print("O menor número é {}".format(menor))
+print("\033[34mO maior número é {}".format(maior))
+print("\033[33mO menor número é {}".format(menor))

@@ -24,4 +24,9 @@ else:
             formaTriangulo = "NÃO"
 
 # Exibindo o resultado
-print("É possível formar um triângulo com r1 = {}, r2 = {}, r3 = {}? {} é possível.".format(r1, r2, r3, formaTriangulo))
+if formaTriangulo == "SIM":
+    print("\033[32mÉ possível formar um triângulo com r1 = {}, r2 = {}, r3 = {}? {} é possível.".format(r1, r2, r3,
+                                                                                                formaTriangulo))
+else:
+    print("\033[31mÉ possível formar um triângulo com r1 = {}, r2 = {}, r3 = {}? {} é possível.".format(r1, r2, r3,
+                                                                                                formaTriangulo))
